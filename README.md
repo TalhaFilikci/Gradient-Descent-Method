@@ -5,3 +5,6 @@ To install all the necessary libraries:
 ````
 pip install -r requirements.txt
 ````
+
+For questions and suggestions, you can reach me at the following mail address:
+[Talha Filikci](mailto:talhafilikci@gmail.com?subject=[Github])
