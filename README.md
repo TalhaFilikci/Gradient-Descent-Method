@@ -14,7 +14,7 @@ For a better understanding, let's look at the figure below.
 
 1. A random starting point x<sub>0</sub> is picked.
 2. While the gradient hasn’t converged:
-  a
+   -hjhj
 
 For questions and suggestions, you can reach me at the following mail address:
 [Talha Filikci](mailto:talhafilikci@gmail.com?subject=[Github])
