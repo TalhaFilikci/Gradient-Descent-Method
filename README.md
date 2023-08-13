@@ -1,4 +1,4 @@
-# Visualizing Gradient-Descent-Method in 2D and 3D
+# Visualizing Gradient-Descent-Method in 2D and 3D with Matplotlib and Numpy
 A short description and python implementation of Gradient descent, an optimization algorithm which is used to train machine learning models and neural networks.
 
 To install all the necessary libraries:
@@ -37,7 +37,7 @@ For a better understanding, let's look at the figure below.
 
 To visulaize and get a better imagination, run the files Gradient Descent 2D or 3D and enjoy it.
 
-For questions and suggestions, you can reach me at the following mail address:
+For questions and suggestions:
 
 
 [Talha Filikci](mailto:talhafilikci@gmail.com?subject=[Github])
