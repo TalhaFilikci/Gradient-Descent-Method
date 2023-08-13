@@ -1,4 +1,4 @@
-# Gradient-Descent-Method
+# Visualizing Gradient-Descent-Method in 2D and 3D
 A short description and python implementation of Gradient descent, an optimization algorithm which is used to train machine learning models and neural networks.
 
 To install all the necessary libraries:
@@ -14,7 +14,9 @@ For a better understanding, let's look at the figure below.
 **How does the algorithm Gradient descent work?**
 
 1. A random starting point x<sub>0</sub> is picked.
-2. While the gradient hasn’t converged:
+2. While the gradient hasn’t converged, compute the negative gradient at x<sub>0</sub>.
+3. Update the point x<sub>0</sub>.
+4. Repeat the process till you find the minimum.
    
 
 For questions and suggestions, you can reach me at the following mail address:
