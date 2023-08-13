@@ -9,9 +9,11 @@ pip install -r requirements.txt
 
 Gradient descent is a practical, efficient algorithm for adjusting the parameters of a model with the goal of minimizing the cost.
 The method is widely used not only in deep learning, but in machine learning in general.
+
+
 For a better understanding, let's look at the figure below.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](../blob/main/Visualisation_Gradient_Descent.PNG)
+![Screenshot](Visualisation_Gradient_Descent.PNG)
 
 
 **How does the algorithm Gradient descent work?**
