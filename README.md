@@ -34,7 +34,8 @@ For a better understanding, let's look at the figure below.
    $\alpha$ is the learning rate.
    
 5. Repeat the process till you find the minimum.
-   
+
+To visulaize and get a better imagination, run the files Gradient Descent 2D oder 3D and enjoy it.
 
 For questions and suggestions, you can reach me at the following mail address:
 
