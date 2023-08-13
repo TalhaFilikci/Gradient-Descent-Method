@@ -21,8 +21,22 @@ For a better understanding, let's look at the figure below.
 1. A random starting point x<sub>0</sub> is picked.
 2. While the gradient hasn’t converged, compute the negative gradient at x<sub>0</sub>.
 3. Update the point x<sub>0</sub>.
-4. Repeat the process till you find the minimum.
+   On each iteration you run an update rule.
+
+   Mathematically:
+
+   $x_{ t+1 } = x_{ t } - \alpha \nabla f(x_{ t })$;
+
+   where $x_{ t+1 }$ is the position of the next iteration,
+   
+   $x_{ t }$ is the position of previous step,
+
+   $\alpha$ is the learning rate.
+   
+5. Repeat the process till you find the minimum.
    
 
 For questions and suggestions, you can reach me at the following mail address:
+
+
 [Talha Filikci](mailto:talhafilikci@gmail.com?subject=[Github])
